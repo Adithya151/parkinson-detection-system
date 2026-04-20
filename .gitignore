@@ -1,1 +1,8 @@
+venv/
+data/
+uploads/
+__pycache__/
+*.pyc
+*.pth
 .env
+node_modules/

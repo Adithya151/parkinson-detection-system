@@ -186,5 +186,5 @@ print(f"Test Accuracy: {acc:.4f}")
 FINAL_MODEL_PATH = os.path.join(MODEL_DIR, "handwriting_model_final.h5")
 model.save(FINAL_MODEL_PATH)
 
-print("\n✅ Best model saved at:", MODEL_PATH)
-print("✅ Final model saved at:", FINAL_MODEL_PATH)
+print("\nBest model saved at:", MODEL_PATH)
+print("Final model saved at:", FINAL_MODEL_PATH)
